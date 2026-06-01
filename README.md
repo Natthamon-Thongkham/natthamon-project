@@ -18,3 +18,8 @@ Computer Science student interested in Data Analysis and Data Processing.
 * Pandas
 * NumPy
 * Scikit-learn
+
+## Certifications
+
+* Power BI for Beginners – SkillLane & Microsoft (2026)
+* SQL (Basic) – HackerRank (2026)
