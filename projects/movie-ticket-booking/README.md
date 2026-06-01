@@ -1,26 +1,24 @@
 # Movie Ticket Booking System
 
-Database design project for a movie ticket booking system using SQL and relational database concepts.
+Group database project involving ER diagram design, database structure planning, and basic SQL implementation for a movie ticket booking system.
 
 ## Tools
 
 * SQL
 * MySQL
 * ER Diagram
+* Database Design
 
 ## Files
 
-* Cinema ER d2-7.pdf : Entity Relationship Diagram (ERD)
-* Movie Ticket Booking System.pdf : Project presentation
-* Major_Complexe.sql : Database schema and SQL scripts
+### Cinema ER d2-7.pdf
 
-## Objective
+Entity Relationship Diagram (ERD) showing entities and relationships within the system.
 
-Design a database system for managing movies, showtimes, seats, and bookings.
+### Movie Ticket Booking System.pdf
 
-## Features
+Project presentation describing the system overview, database design, and booking workflow.
 
-* Relational database design
-* ER Diagram (ERD)
-* Seat reservation management
-* SQL queries and data retrieval
+### Major_Complexe.sql
+
+SQL schema file containing database tables and relationships.
