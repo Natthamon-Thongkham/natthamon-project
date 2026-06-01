@@ -1,6 +1,6 @@
-# Data Analytics Projects
+# Customer Data Preparation using Excel
 
-Collection of data analysis and dashboard projects developed using Excel.
+Customer dashboard project involving data cleaning, data preparation, and customer segmentation analysis using Microsoft Excel and RFM techniques.
 
 ## Tools
 - Microsoft Excel
