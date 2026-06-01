@@ -1,17 +1,21 @@
 # Student Performance Prediction
 
-Machine Learning project for predicting student academic performance.
-
-## Files
-- Student_Performance_Prediction_ML.ipynb : Source code and model development
-- รายงานการเปรียบเทียบโมเดลสำหรับทำนายผลการเรียนของนักเรียนpdf : Project report
+Machine Learning project developed using Python for predicting student academic performance.
 
 ## Tools
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
 
-## Objective
-Compare multiple machine learning models to predict student academic performance.
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* Matplotlib
+
+## Files
+
+### Student_Performance_Prediction_ML.ipynb
+
+Machine Learning notebook containing data preprocessing, model training, and evaluation.
+
+### รายงานการเปรียบเทียบโมเดลสำหรับทำนายผลการเรียนของนักเรียน.pdf
+
+Project report describing methodology, model comparison, and prediction results.
