@@ -4,7 +4,7 @@ Machine Learning project for predicting student academic performance.
 
 ## Files
 - Student_Performance_Prediction_ML.ipynb : Source code and model development
-- รายงานการเปรียบเทียบโมเดลสำหรับ...pdf : Project report
+- รายงานการเปรียบเทียบโมเดลสำหรับทำนายผลการเรียนของนักเรียนpdf : Project report
 
 ## Tools
 - Python
