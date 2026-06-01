@@ -1,4 +1,4 @@
-# Natthamon Portfolio
+# Natthamon Thongkham - Data Analytics Portfolio
 
 Computer Science student interested in Data Analysis and Data Processing.
 
