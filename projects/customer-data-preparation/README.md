@@ -10,7 +10,7 @@ Customer dashboard project involving data cleaning, data preparation, and custom
 
 ## Files
 
-### Customer Dashboard.pdf
+### Customer dashboard.pdf
 Customer segmentation dashboard project using the RFM model to analyze customer behavior and marketing opportunities.
 
 ### TITANIC_Analysis_G1.pdf
