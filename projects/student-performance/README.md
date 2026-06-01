@@ -1,5 +1,4 @@
-# Student Performance Prediction
-
+# Student Performance Prediction using Machine Learning
 Machine Learning project developed using Python for predicting student academic performance.
 
 ## Tools
