@@ -11,8 +11,8 @@ Computer Science student interested in Data Analysis and Data Processing.
 
 ## Tools
 
-* Python
 * SQL
+* Python
 * Excel
 * Power BI
 * Pandas
